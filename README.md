@@ -50,7 +50,7 @@ Restart the apps to pick it up. The symlinks track whichever theme is applied.
 
 | File | |
 | --- | --- |
-| `0-penguin.webp` | Crowned penguin. Free as in speech. Funded as in friends. |
+| `0-penguin.webp` | Crowned penguin. Free as in beer. Funded as in friends. |
 | `1-library.webp` | Private library, green banker's lamp |
 | `2-circuit.webp` | Empty night circuit after rain |
 | `3-boardroom.webp` | Dark marble table, gold ring light |
