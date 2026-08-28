@@ -66,17 +66,17 @@ Add your own without touching this repo: drop images into `~/.config/omarchy/bac
 
 | Role | Hex |
 | --- | --- |
-| Background | `#121410` |
-| Dark background | `#0c0e0a` |
-| Darker background | `#080907` |
-| Lighter background | `#1c2118` |
-| Foreground | `#e8dfc8` |
-| Accent | `#c9a45c` |
-| Selection | `#2a3424` |
-| Muted | `#4a5240` |
-| Red | `#b54a40` |
-| Green | `#4e7a58` |
-| Yellow | `#d4b46a` |
+| Background | `#171c16` |
+| Dark background | `#12160f` |
+| Darker background | `#0c0f0a` |
+| Lighter background | `#22281f` |
+| Foreground | `#e8d9b4` |
+| Accent | `#c7a668` |
+| Selection | `#2c3226` |
+| Muted | `#5a5440` |
+| Red | `#a34b3e` |
+| Green | `#5c6b4a` |
+| Yellow | `#c3a176` |
 
 Icons: `Yaru-yellow`.
 

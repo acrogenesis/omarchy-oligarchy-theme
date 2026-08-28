@@ -7,18 +7,18 @@
  *
  * See the README for how to hook this up. */
 
-@define-color background         #121410;
-@define-color dark_background    #0c0e0a;
-@define-color darker_background  #080907;
-@define-color lighter_background #1c2118;
-@define-color foreground         #e8dfc8;
-@define-color dark_foreground    #8a8270;
-@define-color accent             #c9a45c;
-@define-color accent_light       #e8cc7a;
-@define-color pale_yellow        #d4b46a;
-@define-color error_red          #b54a40;
-@define-color error_red_light    #c45c50;
-@define-color racing_green       #4e7a58;
+@define-color background         #171c16;
+@define-color dark_background    #12160f;
+@define-color darker_background  #0c0f0a;
+@define-color lighter_background #22281f;
+@define-color foreground         #e8d9b4;
+@define-color dark_foreground    #8c7a58;
+@define-color accent             #c7a668;
+@define-color accent_light       #d4b88a;
+@define-color pale_yellow        #c3a176;
+@define-color error_red          #a34b3e;
+@define-color error_red_light    #c05d4e;
+@define-color racing_green       #5c6b4a;
 
 @define-color window_bg_color @dark_background;
 @define-color window_fg_color @foreground;
