@@ -50,7 +50,9 @@ Restart the apps to pick it up. The symlinks track whichever theme is applied.
 
 | File | |
 | --- | --- |
-| `0-penguin.webp` | Crowned penguin. Free as in beer. Funded as in friends. |
+| `0-penguin.webp` | Crowned penguin. Free as in beer. Funded as in friends. (16:9) |
+
+Extra aspect ratios sit in `backgrounds/.responsive/0-penguin/` (`16x9.webp`, `21x9.webp`, `32x9.webp`, …) so they are not separate wallpapers in the picker. This machine’s background plugin picks the closest ratio to the monitor. Drop more files there, or under `~/.config/omarchy/backgrounds/oligarchy/.responsive/0-penguin/`.
 | `1-library.webp` | Private library, green banker's lamp |
 | `2-circuit.webp` | Empty night circuit after rain |
 | `3-boardroom.webp` | Dark marble table, gold ring light |
